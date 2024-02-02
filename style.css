@@ -1,0 +1,51 @@
+.event-body{
+    border: 2px solid #191919;
+    padding: 0px 20px !important;
+    margin: 20px 0px;
+    border-radius:5px;
+}
+.topBtn{
+    text-align: center;
+    margin-top: 40px;
+    width: 354px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.topBtn input{
+    width: 100%;
+    border: 2px solid  #885e5e;
+    border-radius:5px;
+    padding: 5px;
+    text-align: center;
+}
+::placeholder{
+    color: #885e5e;
+    font-weight: 500;
+    font-size: 18px;
+}
+.events{
+    grid-column: 4;
+    grid-row: 2;
+    margin: 40px 0px;
+}
+h3{
+    margin-top: 10px !important;
+    text-align: center;
+    margin-bottom: 0px !important;
+}
+img {
+ 
+    width: 100%;
+    vertical-align: bottom !important;
+    margin-top: 20px;
+    padding-left: 10px;
+    min-height: 77%;
+}
+.card{
+    margin-top: 10px;
+    border: 2px solid #885e5e !important;
+}
+.card-title{
+    font-size: 15px;
+}

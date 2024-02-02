@@ -1,0 +1,1 @@
+There is a little HTML assignment on this page. A subtask of the HTML task is this one. Event home page is the name.
